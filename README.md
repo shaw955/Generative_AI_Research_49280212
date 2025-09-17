@@ -1,7 +1,7 @@
 # 🚀 Generative AI Research – Boon or Bane
 
-**Repository Name:** `Generative_AI_Research_SID`  
-**Owner:** YourGitHubUsername  
+**Repository Name:** `Generative_AI_Research_49280212`  
+**Owner:** shaw955  
 
 ---
 
@@ -55,6 +55,6 @@ All changes are tracked via GitHub commits. Check the **Activity/Commits tab** t
 
 ---
 
-**Maintainer:** Your Name – [GitHub Profile](https://github.com/YourGitHubUsername)  
+**Maintainer:** shaw – [GitHub Profile](https://github.com/shaw955)  
 
 # Generative_AI_Research_49280212
